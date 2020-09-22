@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:esb="http:///org/wso2/developerstudio/eclipse/gmf/esb" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_-J4nAP0bEeqH_vPrfVZmuw" type="Esb" name="api_Logingtest.esb_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_-KzNAP0bEeqH_vPrfVZmuw" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_-KzNBf0bEeqH_vPrfVZmuw" type="7001">
+      <children xmi:type="notation:Shape" xmi:id="_-N4WMP0bEeqH_vPrfVZmuw" type="3668" fontName="Ubuntu">
+        <children xmi:type="notation:BasicCompartment" xmi:id="_-N4WMv0bEeqH_vPrfVZmuw" type="7044">
+          <children xmi:type="notation:Node" xmi:id="_-OA5EP0bEeqH_vPrfVZmuw" type="3669">
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_-OA5Ef0bEeqH_vPrfVZmuw"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_-OA5Ev0bEeqH_vPrfVZmuw" fontName="Ubuntu"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_-OA5E_0bEeqH_vPrfVZmuw"/>
+            <element xmi:type="esb:APIResource" href="api_Logingtest.esb#//@server/@children.0/@resources.0"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-OA5FP0bEeqH_vPrfVZmuw" width="300" height="400"/>
+          </children>
+        </children>
+        <element xmi:type="esb:SynapseAPI" href="api_Logingtest.esb#//@server/@children.0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-N4WMf0bEeqH_vPrfVZmuw" width="40000" height="45000"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_-KzNAf0bEeqH_vPrfVZmuw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_-KzNAv0bEeqH_vPrfVZmuw" fontName="Ubuntu"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_-KzNA_0bEeqH_vPrfVZmuw"/>
+    <element xmi:type="esb:EsbServer" href="api_Logingtest.esb#//@server"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-KzNBP0bEeqH_vPrfVZmuw"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_-J4nAf0bEeqH_vPrfVZmuw"/>
+  <element xmi:type="esb:EsbDiagram" href="api_Logingtest.esb#/"/>
+</notation:Diagram>

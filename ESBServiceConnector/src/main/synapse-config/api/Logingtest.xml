@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<api xmlns="http://ws.apache.org/ns/synapse" name="Logingtest" context="/logintest">
+    <resource methods="GET" url-mapping="/logintest" inSequence="logseq">
+        <outSequence/>
+        <faultSequence/>
+    </resource>
+</api>
